@@ -29,7 +29,7 @@
 7. Handle the following flag characters for non-custom conversion specifiers:
   +
   space
-  #.
+  #
 8. Handle the following length modifiers for non-custom conversion specifiers:
   l
   h.
